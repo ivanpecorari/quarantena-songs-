@@ -1,2 +1,2 @@
 # quarantena-songs-
-Songs about the quarantena 
+Songs about the quarantena in key of C major 
